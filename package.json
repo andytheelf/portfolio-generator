@@ -1,0 +1,26 @@
+{
+    "name": "package.json",
+    "version": "1.0.0",
+    "description": "new",
+    "main": "app.js",
+    "scripts": {
+        "test": "Hello"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/andytheelf/portfolio-generator.git"
+    },
+    "keywords": [
+        "Frodo",
+        "Baggins"
+    ],
+    "author": "Tolkien",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/andytheelf/portfolio-generator/issues"
+    },
+    "homepage": "https://github.com/andytheelf/portfolio-generator#readme",
+    "dependencies": {
+        "inquirer": "^7.1.0"
+    }
+}
